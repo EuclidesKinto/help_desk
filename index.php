@@ -17,7 +17,7 @@
   <body>
 
     <nav class="navbar navbar-dark bg-dark">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="index.php">
         <img src="logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
         App Help Desk
       </a>
@@ -42,6 +42,11 @@
                   <?php if(isset($_GET['login']) && $_GET['login'] == 'error'){ ?>
                       <div class="text-danger">
                           Usuário ou senha inválido(s)
+                      </div>
+                  <?php } ?>
+                  <?php if(isset($_GET['login']) && $_GET['login'] == 'error2'){ ?>
+                      <div class="text-danger">
+                          Faça o login
                       </div>
                   <?php } ?>
                 <button class="btn btn-lg btn-info btn-block" type="submit">Entrar</button>
