@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c75f4ed-637e-43e8-ad72-4c7ff4143520" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/validador_acesso.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abrir_chamado.php" beforeDir="false" afterPath="$PROJECT_DIR$/abrir_chamado.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consultar_chamado.php" beforeDir="false" afterPath="$PROJECT_DIR$/consultar_chamado.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605355382648</updated>
-      <workItem from="1605355387801" duration="6111000" />
+      <workItem from="1605355387801" duration="6481000" />
+      <workItem from="1605375482495" duration="171000" />
     </task>
     <servers />
   </component>
@@ -83,6 +80,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="471" y="308" width="412" height="156" key="NewPhpFileDialog" timestamp="1605362865872">
